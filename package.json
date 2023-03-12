@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "npx slt",
+    "dev": "npx slt -w"
+  },
+  "dependencies": {
+    "selectfromuser": "^1.1.28"
+  }
+}
